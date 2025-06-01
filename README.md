@@ -1,4 +1,4 @@
 # test-project
 Experimental project
-# Hi tere!
+# Hi there!
 this is an experimental project on GitHub :)
